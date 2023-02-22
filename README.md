@@ -1,2 +1,2 @@
-# terraform-provider-dns-lookup
+# terraform-provider-dnslookup
 DNS Lookup Terraform provider
